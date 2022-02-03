@@ -46,7 +46,7 @@ function enableKeyboardMouse() {
             texture.mapping = THREE.EquirectangularReflectionMapping;
 
             texture.dispose()
-            //scene.background = texture;
+            scene.background = texture;
             scene.environment = texture;
 
             // Room Model
