@@ -5,7 +5,7 @@ import {
 	HalfFloatType,
 	LinearEncoding,
 	LinearFilter
-} from 'https://unpkg.com/three@0.127.0/build/three.module.js';
+} from 'https://cdn.skypack.dev/three@v0.137.5';
 
 // https://github.com/mrdoob/three.js/issues/5552
 // http://en.wikipedia.org/wiki/RGBE_image_format
