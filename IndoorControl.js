@@ -4,7 +4,7 @@ import {
     Raycaster,
     Vector2,
     Vector3
-} from '../build/three.module.js';
+} from 'https://unpkg.com/three@0.127.0/build/three.module.js';
 
 var IndoorControls = function (camera, domElement) {
 
